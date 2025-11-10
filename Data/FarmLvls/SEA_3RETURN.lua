@@ -223,7 +223,7 @@ return {
         },
         ["NPC_Count"] = "Peanut Scout"
     }, -- Unfinised: chưa xong tại lười 🦊 --
-    ["9999"] = {
+    ["4250"] = {
         ["QuestName"] = "EndGame",
         ["QuestNumber"] = 1,
         ["QuestNPC"] = {0, 0, 0},
