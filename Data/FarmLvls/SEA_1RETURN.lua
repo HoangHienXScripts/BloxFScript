@@ -265,20 +265,7 @@ return {
         },
         ["NPC_Count"] = "Galley Pirate"
     }, -- Unfinished: còn thiếu "650" tại lười :) --
-    ["700"] = {
-        ["QuestName"] = "Area1Quest",
-        ["QuestNumber"] = 1,
-        ["QuestNPC"] = {-425.35, 73, 1837.3},
-        ["QuestWaitingSpots"] = {
-            Vector3.new(168.71, 94.43, 2190.52),
-            Vector3.new(516.61, 154.66, 2485.93),
-            Vector3.new(-478.58, 99.7, 2326.05),
-            Vector3.new(-759.08, 144.66, 2592.4),
-            Vector3.new(-41.46, 47.99, 2125.1)
-        },
-        ["NPC_Count"] = "Raider"
-    },
-    ["9999"] = {
+    ["4250"] = {
         ["QuestName"] = "EndGame",
         ["QuestNumber"] = 1,
         ["QuestNPC"] = {0, 0, 0},
