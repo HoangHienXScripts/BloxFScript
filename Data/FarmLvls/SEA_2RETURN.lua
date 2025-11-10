@@ -143,17 +143,7 @@ return {
         },
         ["NPC_Count"] = "Lab Subordinate"
     }, -- Unfinished: chưa xong tại lười :/ --
-    ["1500"] = {
-        ["QuestName"] = "PiratePortQuest",
-        ["QuestNumber"] = 1,
-        ["QuestNPC"] = {-448.71, 108.62, 5946.6},
-        ["QuestWaitingSpots"] = {
-            Vector3.new(-131.89, 57.02, 5760.11),
-            Vector3.new(-635.32, 57.02, 5625.43)
-        },
-        ["NPC_Count"] = "Pirate Millionaire"
-    },
-    ["9999"] = {
+    ["4250"] = {
         ["QuestName"] = "EndGame",
         ["QuestNumber"] = 1,
         ["QuestNPC"] = {0, 0, 0},
