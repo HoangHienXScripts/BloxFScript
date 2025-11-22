@@ -5,3 +5,4 @@ Blox Fruits Commands Script: [Commands.luau](https://raw.githubusercontent.com/H
 
 # Commands Changed/Fix:
 > "commands": show description about each command in /console
+> "checkmoon": fixed to working on all sea 1, 2, 3...
