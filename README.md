@@ -12,4 +12,4 @@ pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoan
 # Commands Changed/Fix:
 > "commands": show description about each command in /console
 > "checkmoon": fixed to working on all sea 1, 2, 3...
-> "goto <player>": fixed!
+> "goto": fixed goto username none working.
