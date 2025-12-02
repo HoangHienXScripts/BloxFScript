@@ -142,7 +142,145 @@ return {
             Vector3.new(-5665.77, 15.99, -4553.04)
         },
         ["NPC_Count"] = "Lab Subordinate"
-    }, -- Unfinished: chưa xong tại lười :/ --
+    },
+    ["1125"] = {
+        ["QuestName"] = "IceSideQuest",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {-6059.33, 16, -4903.94},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(-6400.35, 24.03, -5809.56),
+            Vector3.new(-6430.58, 47.92, -5489.72),
+            Vector3.new(-6051.81, 48.48, -5875.35)
+        },
+        ["NPC_Count"] = "Horned Warrior"
+    },
+    ["1175"] = {
+        ["QuestName"] = "FireSideQuest",
+        ["QuestNumber"] = 1,
+        ["QuestNPC"] = {-5432.42, 16, -5298.5},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(-5856.7, 61.73, -5805.58),
+            Vector3.new(-5433.09, 78.44, -5963.94),
+            Vector3.new(-5160.3, 67.44, -6003.55),
+            Vector3.new(-5314.69, 24.01, -5451.15)
+        },
+        ["NPC_Count"] = "Magma Ninja"
+    },
+    ["1200"] = {
+        ["QuestName"] = "FireSideQuest",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {-5432.12, 16, -5298.91},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(-5352.37, 22.42, -4965.35),
+            Vector3.new(-5442.6, 61.73, -4532.48),
+            Vector3.new(-5184.07, 53.12, -4734.48),
+            Vector3.new(-4927.38, 42.67, -4668.86)
+        },
+        ["NPC_Count"] = "Lava Pirate"
+    },
+    ["1250"] = {
+        ["QuestName"] = "ShipQuest1",
+        ["QuestNumber"] = 1,
+        ["QuestNPC"] = {1036.24, 125.1, 32909.33},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(1249.77, 128.55, 33050.69),
+            Vector3.new(1279.65, 125.48, 33114),
+            Vector3.new(1144.34, 125.48, 33237.87),
+            Vector3.new(634.48, 125.77, 33012.3),
+            Vector3.new(719.77, 128.78, 33084.13)
+        },
+        ["NPC_Count"] = "Ship Deckhand"
+    },
+    ["1275"] = {
+        ["QuestName"] = "ShipQuest1",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {1035.54, 125.1, 32909.51},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(920.37, 43.59, 32780.06),
+            Vector3.new(787.34, 40.49, 33019.58),
+            Vector3.new(1046.31, 40.49, 33017.11)
+        },
+        ["NPC_Count"] = "Ship Engineer"
+    },
+    ["1300"] = {
+        ["QuestName"] = "ShipQuest2",
+        ["QuestNumber"] = 1,
+        ["QuestNPC"] = {973.58, 125.1, 33248.73},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(949.9, 129.6, 33442.95),
+            Vector3.new(888.15, 129.6, 33440.7),
+            Vector3.new(898.3, 125.6, 33536.08),
+            Vector3.new(887.96, 129.6, 33492.48),
+            Vector3.new(949.39, 129.6, 33389.67)
+        },
+        ["NPC_Count"] = "Ship Steward"
+    },
+    ["1325"] = {
+        ["QuestName"] = "ShipQuest2",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {974.41, 125.1, 33248.8},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(1190.35, 270.59, 33290.92),
+            Vector3.new(1305.76, 184.89, 33085.99),
+            Vector3.new(1338.53, 185.53, 33488.78),
+            Vector3.new(589.13, 181.19, 33225.73),
+            Vector3.new(657.53, 181.1, 33413.53)
+        },
+        ["NPC_Count"] = "Ship Officer"
+    },
+    ["1350"] = {
+        ["QuestName"] = "FrostQuest",
+        ["QuestNumber"] = 1,
+        ["QuestNPC"] = {5670.17, 28.22, -6481.65},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(6104.77, 28.41, -6241.64),
+            Vector3.new(5872.06, 146.5, -6205.93),
+            Vector3.new(5839.25, 146.5, -6114.59),
+            Vector3.new(6203.48, 294.43, -6466.31)
+        },
+        ["NPC_Count"] = "Arctic Warrior"
+    },
+    ["1375"] = {
+        ["QuestName"] = "FrostQuest",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {5669.54, 28.22, -6483.68},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(5637.21, 44.58, -6771.17),
+            Vector3.new(5485.54, 37.25, -6632.6),
+            Vector3.new(5598.25, 155.45, -7015.34),
+            Vector3.new(5135.89, 145.1, -6797.28),
+            Vector3.new(5347.75, 161.22, -6870.05)
+        },
+        ["NPC_Count"] = "Snow Lurker"
+    },
+    ["1425"] = {
+        ["QuestName"] = "ForgottenQuest",
+        ["QuestNumber"] = 1,
+        ["QuestNPC"] = {-3054.67, 239.69, -10146.47},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(-3334.85, 27.01, -9816.12),
+            Vector3.new(-3232.32, 62.16, -9724.51),
+            Vector3.new(-2923.66, 6.17, -9756.19),
+            Vector3.new(-2637.8, 63.77, -9855.84),
+            Vector3.new(-3225.97, 458.73, -10228.28)
+        },
+        ["NPC_Count"] = "Sea Soldier"
+    },
+    ["1450"] = {
+        ["QuestName"] = "ForgottenQuest",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {-3054.52, 239.69, -10146.89},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(-3263.21, 239.11, -10363.61),
+            Vector3.new(-2732.23, 238.89, -10255.29),
+            Vector3.new(-3178.21, 238.89, -10753.32),
+            Vector3.new(-3510.83, 239.45, -10571.55),
+            Vector3.new(-3497.28, 123.34, -11540.54),
+            Vector3.new(-3830.91, 105.91, -11399.49),
+            Vector3.new(-3729.32, 106.92, -11774.25)
+        },
+        ["NPC_Count"] = "Water Fighter"
+    },
     ["4250"] = {
         ["QuestName"] = "EndGame",
         ["QuestNumber"] = 1,
@@ -153,3 +291,4 @@ return {
         ["NPC_Count"] = "SCRIPT BY HOANGHIEN"
     }
 }
+-- Finished Sea 2 --
