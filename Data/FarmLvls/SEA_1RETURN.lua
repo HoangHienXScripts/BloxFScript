@@ -264,7 +264,18 @@ return {
             Vector3.new(5618.17, 152.34, 3992.17)
         },
         ["NPC_Count"] = "Galley Pirate"
-    }, -- Unfinished: còn thiếu "650" tại lười :) --
+    },
+    ["650"] = {
+        ["QuestName"] = "FountainQuest",
+        ["QuestNumber"] = 2,
+        ["QuestNPC"] = {5256.79, 38.55, 4047.26},
+        ["QuestWaitingSpots"] = {
+            Vector3.new(5263.96, 81.45, 4916.26),
+            Vector3.new(5845.55, 85.97, 4834.06),
+            Vector3.new(5677.53, 92.8, 4967.58)
+        },
+        ["NPC_Count"] = "Galley Captain"
+    },
     ["4250"] = {
         ["QuestName"] = "EndGame",
         ["QuestNumber"] = 1,
@@ -274,4 +285,4 @@ return {
         },
         ["NPC_Count"] = "SCRIPT BY HOANGHIEN"
     }
-}
+} -- Next stuff: Shorcut functions... --
