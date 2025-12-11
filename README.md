@@ -8,10 +8,9 @@ pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoan
 > read in console after executed.
 
 # Commands Changed/Fix:
+````diff
 > "commands": show description about each command in /console
 > "checkmoon": fixed to working on all sea 1, 2, 3...
 > "goto": fixed goto username none working.
 > "goto": fixed goto npc none working.
-
-````diff
-- test
+````
